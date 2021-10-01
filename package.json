@@ -1,6 +1,6 @@
 {
   "name": "@wholebuzz/archive-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Archive database client",
   "author": "wholebuzz",
   "license": "Apache-2.0",
@@ -22,7 +22,8 @@
   },
   "main": "lib/index.js",
   "files": [
-    "lib/**/*"
+    "lib/**/*",
+    "src/**/*"
   ],
   "dependencies": {
     "@wholebuzz/archive-base": "^0.0.1",
